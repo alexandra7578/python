@@ -10,5 +10,6 @@ detalii: probleme de python
 
 link-github:
 	    https://www.youtube.com/watch?v=eGaImwD8fPQ&t=652s
+link-projects:https://www.youtube.com/watch?v=8ext9G7xspg
 
 
